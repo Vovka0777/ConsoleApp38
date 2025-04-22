@@ -1,0 +1,7 @@
+E:\инфа\ConsoleApp38_2\obj\Debug\ConsoleApp38_2.csproj.AssemblyReference.cache
+E:\инфа\ConsoleApp38_2\obj\Debug\ConsoleApp38_2.csproj.CoreCompileInputs.cache
+E:\инфа\ConsoleApp38_2\bin\Debug\ConsoleApp38_2.exe.config
+E:\инфа\ConsoleApp38_2\bin\Debug\ConsoleApp38_2.exe
+E:\инфа\ConsoleApp38_2\bin\Debug\ConsoleApp38_2.pdb
+E:\инфа\ConsoleApp38_2\obj\Debug\ConsoleApp38_2.exe
+E:\инфа\ConsoleApp38_2\obj\Debug\ConsoleApp38_2.pdb
